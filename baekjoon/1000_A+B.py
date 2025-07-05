@@ -5,7 +5,7 @@
 # 출력) 첫째 줄에 A+B를 출력한다.
 
 try:
-    a, b = map(int, input("두 정수를 입력 : ").split())
+    a, b = map(int, input().split())
     
     if a <= 0:
         raise print("a의 값을 1이상으로 입력하세요")
