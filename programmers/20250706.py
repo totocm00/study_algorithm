@@ -10,14 +10,13 @@
 # num_list의 원소를 모두 곱했을 때 2,147,483,647를 넘는 입력은 주어지지 않습니다.
 
 def solution(num_list):
-    answer = 0
+    answer = 1
     if len(num_list) >= 11:
-        for i in range(0,len(num_list)):
-            answer += num_list[i]
-    elif len(num_list) >= 10:
-        for i in range(0,len(num_list)):
-            answer *= num_list[i]
+        return sum(num_list)
+    else:
+        for num in num_list:
+            answer *= num
     return answer
 
-num_list = [1, 2 ,3]
+num_list = [1, 2 ,3, 5]
 solution(num_list)
