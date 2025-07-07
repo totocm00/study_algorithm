@@ -6,7 +6,9 @@
 # 1 ≤ n ≤ my_string의 길이
 
 def solution(my_string, n):
-    answer = ''
-    for i in range(0, n):
-        answer += my_string[i]
-    return answer
+    # answer = ''
+    # for i in range(0, n):
+    #     answer += my_string[i]
+    # return answer
+
+    return my_string[:n]
