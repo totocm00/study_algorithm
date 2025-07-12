@@ -5,21 +5,16 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/b5e88329-9c40-4469-90e3-4b3b5b3b92df" 
-    alt="왼쪽 이미지" 
-    width="300" 
-    style="display:inline-block; margin-right: 10px;" 
-  />
-  
-  <img 
-    src="https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e" 
-    alt="오른쪽 이미지" 
-    width="250" 
-    style="display:inline-block;" 
-  />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b5e88329-9c40-4469-90e3-4b3b5b3b92df" width="250" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 ```
