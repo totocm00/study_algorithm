@@ -4,7 +4,9 @@
 > 매일 꾸준히 문제를 풀고, 개선 가능한 부분은 리팩토링합니다.
 
 ---
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e" width="300">
+</p>
 ![Image](https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e)
 
 ```
