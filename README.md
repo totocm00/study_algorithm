@@ -4,10 +4,23 @@
 > 매일 꾸준히 문제를 풀고, 개선 가능한 부분은 리팩토링합니다.
 
 ---
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e" width="300">
+  <img 
+    src="https://github.com/user-attachments/assets/b5e88329-9c40-4469-90e3-4b3b5b3b92df" 
+    alt="왼쪽 이미지" 
+    width="300" 
+    style="display:inline-block; margin-right: 10px;" 
+  />
+  
+  <img 
+    src="https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e" 
+    alt="오른쪽 이미지" 
+    width="250" 
+    style="display:inline-block;" 
+  />
 </p>
-![Image](https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e)
+
 
 ```
 ## 📈 목표
