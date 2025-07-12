@@ -5,6 +5,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/fe989f2f-ca01-43d5-bc0d-4b5e11255c6e)
+
 ```
 ## 📈 목표
 
