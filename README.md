@@ -69,18 +69,10 @@ fix: 백준 10950번 입력 오류 수정
 
 ---
 
-## 🗓️ 커밋 히스토리 예시
+## ⏳ 시간복잡 ⌛
 
-📅 2025-07-10
+<img width="638" height="585" alt="Image" src="https://github.com/user-attachments/assets/33fa1ffb-15e8-44dc-8ae4-b30f655a9042" />
 
-solve: 프로그래머스 배열.append()  
-
-refactor: 리스트 컴프리헨션 적용  
-
-📅 2025-07-08
-
-solve: 백준 my_string 길이 구하기  
-
-refactor: for문 슬라이싱 정리  
+<img width="374" height="126" alt="Image" src="https://github.com/user-attachments/assets/389540ed-1213-4263-baf4-3ccd07441722" />
 
 ---
