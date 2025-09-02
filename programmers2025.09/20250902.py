@@ -19,3 +19,9 @@ def solution(my_strings, parts):
         start, end = parts[i]
         answer += s[start:end+1]
     return answer
+
+def solution(my_strings, parts):
+    return ''.join(
+        s[a:b+1]                  # 잘라낸 부분문자열
+        for s, (a, b) in zip(my_strings, parts)  # 같은 인덱스끼리 페어링
+    )
